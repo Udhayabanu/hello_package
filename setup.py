@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'this is my first pacakage'
 
 # Setting up
 setup(
-    name="helloWorld",
+    name="hello_World",
     version=VERSION,
     author='Udhay',
     author_email='n.udhayabanu@gamil.com',
