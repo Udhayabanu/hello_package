@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'this is my first pacakage'
 
 # Setting up
 setup(
-    name="hello_world",
+    name="helloWorld",
     version=VERSION,
     author='Udhay',
     author_email='n.udhayabanu@gamil.com',
@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     url='ssh://git@github.com:Udhayabanu/hello_package.git',
-    packages=['hello_world'],
+    packages=['helloWorld'],
     license='MIT',
     install_requires=[],
     classifiers=[
