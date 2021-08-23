@@ -1,0 +1,11 @@
+*/__pycache__
+*.log
+venv/
+temp/
+#test
+#pytest.ini
+*/.pytest_cache
+
+# Intellij Idea
+.idea/
+*.iml
